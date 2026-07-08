@@ -1,0 +1,14 @@
+# MÓDULO 4: Persistencia y manejo de errores
+def guardar_en_bitacora(datos):
+    try:
+        with open("ventas.txt", "a") as f:
+            f.write(datos + "\n")
+    except Exception as e:
+        print(f"Error crítico al escribir en disco: {e}")
+
+def leer_historial():
+    try:
+        with open("ventas.txt", "r") as f:
+            print(f.read())
+    except FileNotFoundError:
+        print("Aún no hay registros de ventas.")
