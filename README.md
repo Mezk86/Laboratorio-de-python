@@ -35,3 +35,4 @@ El programa incluye validación de datos ingresados por el usuario, aplicación 
 4. Ejecutar el programa principal con el comando:
 
 ```bash
+python Venta_de_entradas.py
