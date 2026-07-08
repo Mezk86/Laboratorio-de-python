@@ -1,0 +1,42 @@
+[33mcommit 70861959dee9a778920c7c751d672b4532982161[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Maximo Zweifel <zweifelmaximo11@gmail.com>
+Date:   Wed Jul 8 02:14:26 2026 -0300
+
+    Agregamos el manejo de archivos
+
+[33mcommit 4f5b447ced7de12e78d3b4cd90913f0f48a56b70[m
+Author: Maximo Zweifel <zweifelmaximo11@gmail.com>
+Date:   Wed Jul 8 02:12:59 2026 -0300
+
+     Agregamos las funciones
+
+[33mcommit 1c40360a8765463c9d3eec3436d7cb56820bb55c[m
+Author: Maximo Zweifel <zweifelmaximo11@gmail.com>
+Date:   Wed Jul 8 02:07:06 2026 -0300
+
+    Agregamos estructuras de control
+
+[33mcommit d5796fc6a87fe91d4dedba5c1a521a38c700a65d[m
+Author: Maximo Zweifel <zweifelmaximo11@gmail.com>
+Date:   Wed Jul 8 01:51:14 2026 -0300
+
+    Agregar variables, sintaxis y tipos de datos
+
+[33mcommit df6dd69a26f68ca51639085b7e1a86df98ef273e[m
+Merge: c062185 63b5528
+Author: Maximo Zweifel <zweifelmaximo11@gmail.com>
+Date:   Wed Jul 8 01:39:44 2026 -0300
+
+    Merge branch 'main' of https://github.com/Mezk86/Laboratorio-de-python
+
+[33mcommit c0621857eab546ceb345aa3336cf556a4101e763[m
+Author: Maximo Zweifel <zweifelmaximo11@gmail.com>
+Date:   Wed Jul 8 01:28:14 2026 -0300
+
+    Crear estructura inicial del proyecto
+
+[33mcommit 63b55287c6f69401c65aa33528ccdb7968e6515d[m
+Author: Mezk86 <zweifelmaximo11@gmail.com>
+Date:   Wed Jul 8 01:09:15 2026 -0300
+
+    Initial commit
